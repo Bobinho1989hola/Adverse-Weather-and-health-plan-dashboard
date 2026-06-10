@@ -50,4 +50,4 @@
 
 #### PowerBI-Healthcare dashboard overview
 
-![Healthcare-Patient-waiting-times-dashboard](Images/Healthcare%20Data%20Project.png)
+![AWHP-dashboard](images/AWHP-dashboard.png)
